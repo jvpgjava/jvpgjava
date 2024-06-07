@@ -7,8 +7,10 @@
    ▪️ Database(MySQL, NoSQL, MongoDB)
    ▪️ Hibernate
    ▪️ JavaFX
-   ▪️ Git & GitHub
+   ▪️ Git
    
+
+   # modificadodd/versionate336768
 
 <!---
 jvpgjava/jvpgjava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
