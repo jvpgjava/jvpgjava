@@ -3,10 +3,6 @@
 -  Some of my skills:
    ▪️ Java
    ▪️ NodeJS
-   ▪️ SpringBoot
-   ▪️ Database(MySQL, NoSQL, MongoDB)
-   ▪️ Hibernate
-   ▪️ JavaFX
    ▪️ Git & GitHub
 <!---
 jvpgjava/jvpgjava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
