@@ -31,7 +31,7 @@
 
 <br>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpgjava&layout=compact" alt="Top Languages" />
 </p>
 
