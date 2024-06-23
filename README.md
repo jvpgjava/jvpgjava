@@ -20,16 +20,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvpgjava&show_icons=true&locale=en" alt="jvpgjava" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvpgjava&show_icons=true&locale=en&layout=compact" alt="jvpgjava" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvpgjava&" alt="jvpgjava" />
-</p>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jvpgjava&show_icons=true&locale=en" alt="jvpgjava" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvpgjava" alt="jvpgjava" />
+  </div>
+</div>
 
 
