@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/15942559/README.md)
+
 - 👋 Hi, I’m João Vitor, currently a Computer Science student and Backend Java developer;
 -  I am passionate about technology and looking to improve more and more
 -  Some of my skills:
