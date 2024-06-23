@@ -31,14 +31,10 @@
 
 <br>
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpgjava&layout=compact" alt="Top Languages" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jvpgjava&show_icons=true&locale=en&hide=prs,issues,contribs" alt="Total Contributions" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpgjava&layout=compact" alt="Top Languages" />
+</p>
+
 
 
 
