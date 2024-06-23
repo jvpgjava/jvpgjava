@@ -17,9 +17,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvpgjava&" alt="jvpgjava" /></p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpgjava&layout=compact" alt="Top Languages" />
-</p>
 
 
 
