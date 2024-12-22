@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vitor,</h1>
 <h3 align="center">A passionate for technology and Computer Science student and Backend Java developer</h3>
 
-- 🌱 I’m currently learning **Java, OOPs and NodeJs**
+- 🌱 I’m currently learning **Java, Spring Boot and PostgreSQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
