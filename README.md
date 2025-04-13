@@ -47,8 +47,11 @@
 
 ###
 
-<br clear="both">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvpgjava&show_icons=true&locale=en&layout=compact" alt="jvpgjava" />
 
-<img src="https://raw.githubusercontent.com/jvpgjava/jvpgjava/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jvpgjava&show_icons=true&locale=en" alt="jvpgjava" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvpgjava&" alt="jvpgjava" /></p>
+
 
 ###
