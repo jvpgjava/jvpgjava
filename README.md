@@ -1,10 +1,4 @@
-<h3 align="left">Olá, me chamo João Vitor e sou Desenvolvedor Back-End Java 😁</h3>
-
-###
-
-<div align="center">
-  <img height="150" src="https://i.makeagif.com/media/4-07-2021/ulI2iN.gif"  />
-</div>
+<h3 align="left">Olá, me chamo João Vitor e sou Desenvolvedor Fullstack Java 😁</h3>
 
 ###
 
