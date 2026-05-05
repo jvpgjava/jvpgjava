@@ -1,19 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Vitor!+%F0%9F%91%8B;Fullstack+Software+Engineer;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Grando;Fullstack+Software+Engineer;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" height="230" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<table>
+<tr>
+<td valign="center" width="65%">
 
 ### 🧑‍💻 Sobre mim
 
 ```java
-public class JoaoVitor extends Developer {
+public class JoaoGrando extends Developer {
 
-    String name    = "João Vitor";
+    String name    = "João Grando";
     String role    = "Fullstack Java Developer";
     String[] stack = {"Java", "Spring", "Angular", "React"};
     String vibe    = "Café ☕ + Código limpo = ❤️";
@@ -26,7 +28,12 @@ public class JoaoVitor extends Developer {
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="center" width="90%" align="center">
+  <img src="https://raw.githubusercontent.com/jvpgjava/jvpgjava/main/duke.gif" height="200"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,6 +118,8 @@ public class JoaoVitor extends Developer {
 ---
 
 <div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=jvpgjava&color=orange&style=for-the-badge&label=VISITAS)
 
   *"Não vim com talento. Vim com esforço — e isso tem sido suficiente."*
 
