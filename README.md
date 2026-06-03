@@ -68,6 +68,10 @@ public class JoaoGrando extends Developer {
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" title="MySQL"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" title="SQL Server"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" title="MongoDB"/>
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="42" title="Apache Kafka"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="42" title="RabbitMQ"/>
