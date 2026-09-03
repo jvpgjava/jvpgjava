@@ -145,12 +145,3 @@ public class JoaoGrando extends Developer {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="42" title="SonarQube"/>
 </div>
 
----
-
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=jvpgjava&color=orange&style=for-the-badge&label=VISITAS)
-
-  *"Não vim com talento. Vim com esforço — e isso tem sido suficiente."*
-
-</div>
