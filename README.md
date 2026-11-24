@@ -60,6 +60,14 @@ public class JoaoGrando extends Developer {
   &nbsp;
   <img src="https://github.com/user-attachments/assets/b5b75cb6-8a96-450a-a7b8-ffc1acb0c274" height="42" title="Go"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" title="Rust"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" title="Django"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" title="FastAPI"/>
+  &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="42" title="Next.js"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="42" title="Node.js"/>
@@ -144,4 +152,3 @@ public class JoaoGrando extends Developer {
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="42" title="SonarQube"/>
 </div>
-
