@@ -133,6 +133,8 @@ public class JoaoGrando extends Developer {
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="42" title="Apache Kafka"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="42" title="RabbitMQ"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Service-Bus.svg" height="42" title="Azure Service Bus"/>
 </div>
 
 <br/>
@@ -151,4 +153,8 @@ public class JoaoGrando extends Developer {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="42" title="Azure DevOps"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="42" title="SonarQube"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" height="42" title="Argo CD"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="42" title="GitLab"/>
 </div>
