@@ -54,6 +54,8 @@ public class JoaoGrando extends Developer {
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" title="Spring Boot"/>
   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" height="42" title="Quarkus"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" title="C#"/>
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="42" title=".NET"/>
@@ -108,6 +110,10 @@ public class JoaoGrando extends Developer {
 **📱 Mobile**
 
 <div>
+  <img src="https://github.com/user-attachments/assets/91ff0363-c071-4d28-af0d-6a4a29b9ba59" height="42" title="Kotlin"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="42" title="Jetpack Compose"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" title="Dart"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" title="Flutter"/>
